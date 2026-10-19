@@ -175,8 +175,8 @@ Interactive Dashboards
 Specializing in leveraging business intelligence tools to solve complex operational problems in healthcare, agriculture, and commercial enterprises.
 
 * **Portfolio Website:** https://mollaadugna.wixsite.com/molla-adugna-1
-* * **GitHub:** https://github.com/Molla-Adugna
-* **LinkedIn:** https://www.linkedin.com/in/molla-adugna
+* **GitHub:** https://github.com/Molla-Adugna
+* **LinkedIn:** https://www.linkedin.com/in/molla-adunga/?isSelfProfile=true
 
 ---
 
