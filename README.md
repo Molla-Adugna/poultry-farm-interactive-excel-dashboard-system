@@ -136,10 +136,10 @@ Interactive Dashboards
 
 | View | Asset Preview |
 | :--- | :--- |
-| **Home Dashboard** | `![Home Dashboard](images/home_dashboard.png)` |
-| **Production Dashboard** | `![Production Dashboard](images/production_dashboard.png)` |
-| **Feed Management** | `![Feed Dashboard](images/feed_dashboard.png)` |
-| **Financial Dashboard** | `![Financial Dashboard](images/financial_dashboard.png)` |
+| **Home Dashboard** | ![Home Dashboard](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/home_dashboard.png?raw=true) |
+| **Production Dashboard** | ![Production Dashboard](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/production_rashboard.png?raw=true) |
+| **Feed Management** | ![Feed Dashboard](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/feed_management_dashboard.png?raw=true) |
+| **Financial Dashboard** | ![Financial Dashboard](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/financial_management_dashboard.png?raw=true) |
 
 ---
 ## 🔒 System Refresh & Maintenance
