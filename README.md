@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Project_Status-Completed-success?style=for-the-badge)
 
 ---
-![Healthcare Data Cleaning and Quality Assessment](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/MFIPF_Dashboard_Thubnail_updated.png?raw=true)
+![Healthcare Data Cleaning and Quality Assessment](https://github.com/Molla-Adugna/poultry-farm-interactive-excel-dashboard-system/blob/main/Assets/MFIPF_Dashboard_Thumbnail_Updated_2.png?raw=true)
 ## 📊 Project Overview
 
 **MFIPF Poultry Farm Interactive Excel Dashboard System** is a comprehensive Excel-based Business Intelligence (BI) solution developed for an agricultural enterprise owned by **Meseret Fekade**.
